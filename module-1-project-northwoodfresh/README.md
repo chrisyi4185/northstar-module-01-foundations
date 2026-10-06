@@ -1,6 +1,6 @@
 # Northstar Module 1: Foundations of Data Analytics & Statistics
 
-Module project for Module 1 of Coding Temple's AI Data Analytics Foundations course at Northstar Data Group
+Module project for Module 1 of Coding Temple's AI Data Analytics Foundations course at Northstar Data Group. 
 
 ## What is This?
 
@@ -8,7 +8,9 @@ Synthetic dataset creation and analysis to prototype methodology in preparation 
 
 CFO Sven Anderson requests analysis on a 23% decline in the Southwest region. He wishes to know what is causing the Southeast region's revenue decline and what to do about it before the holiday season. 
 
-This synthetic dataset is built to closely simulate actual numbers and prototype the analysis before actual data is available from Northwoodfresh internal servers. 
+This synthetic dataset is built to closely simulate actual numbers and prototype the analysis before actual data is available from Northwoodfresh internal servers.
+
+Included is a memo for the CFO sharing the findings from the synthetic dataset and suggestions for what data may be needed going forward for further analysis when the real data is available from Northwoodfresh. 
 
 ## What it Does
 
